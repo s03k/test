@@ -1,2 +1,2 @@
-<?php echo 'test2';
+<?php echo 'test';
 echo '20140219';
